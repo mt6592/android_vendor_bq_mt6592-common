@@ -60,8 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/mt6592-common/proprietary/bin/fsck_msdos_mtk:system/bin/fsck_msdos_mtk \
     vendor/bq/mt6592-common/proprietary/bin/ft5606_upgrade:system/bin/ft5606_upgrade \
     vendor/bq/mt6592-common/proprietary/bin/geomagneticd:system/bin/geomagneticd \
-    vendor/bq/mt6592-common/proprietary/bin/gsm0710muxd:system/bin/gsm0710muxd \
-    vendor/bq/mt6592-common/proprietary/bin/gsm0710muxdmd2:system/bin/gsm0710muxdmd2 \
     vendor/bq/mt6592-common/proprietary/bin/init.gprs-pppd:system/bin/init.gprs-pppd \
     vendor/bq/mt6592-common/proprietary/bin/ipod:system/bin/ipod \
     vendor/bq/mt6592-common/proprietary/bin/lcdc_screen_cap:system/bin/lcdc_screen_cap \
