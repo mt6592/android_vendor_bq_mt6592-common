@@ -336,7 +336,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/mt6592-common/proprietary/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so \
     vendor/bq/mt6592-common/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
     vendor/bq/mt6592-common/proprietary/lib/libfmcust.so:system/lib/libfmcust.so \
-    vendor/bq/mt6592-common/proprietary/lib/libfmjni.so:system/lib/libfmjni.so \
     vendor/bq/mt6592-common/proprietary/lib/libfmmt6620.so:system/lib/libfmmt6620.so \
     vendor/bq/mt6592-common/proprietary/lib/libfmmt6627.so:system/lib/libfmmt6627.so \
     vendor/bq/mt6592-common/proprietary/lib/libfmmt6628.so:system/lib/libfmmt6628.so \
