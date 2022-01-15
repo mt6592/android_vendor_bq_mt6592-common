@@ -177,7 +177,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/mt6592-common/proprietary/etc/drm_chmod:system/etc/drm_chmod \
     vendor/bq/mt6592-common/proprietary/etc/ds1-default.xml:system/etc/ds1-default.xml \
     vendor/bq/mt6592-common/proprietary/etc/factory.ini:system/etc/factory.ini \
-    vendor/bq/mt6592-common/proprietary/etc/fallback_fonts.xml:system/etc/fallback_fonts.xml \
     vendor/bq/mt6592-common/proprietary/etc/firmware/S_ANDRO_SFL.ini:system/etc/firmware/S_ANDRO_SFL.ini \
     vendor/bq/mt6592-common/proprietary/etc/firmware/WIFI_RAM_CODE:system/etc/firmware/WIFI_RAM_CODE \
     vendor/bq/mt6592-common/proprietary/etc/firmware/WIFI_RAM_CODE_E6:system/etc/firmware/WIFI_RAM_CODE_E6 \
@@ -349,7 +348,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/mt6592-common/proprietary/lib/libion.so:system/lib/libion.so \
     vendor/bq/mt6592-common/proprietary/lib/libipod.so:system/lib/libipod.so \
     vendor/bq/mt6592-common/proprietary/lib/libjni_pq.so:system/lib/libjni_pq.so \
-    vendor/bq/mt6592-common/proprietary/lib/libm4u.so:system/lib/libm4u.so \
     vendor/bq/mt6592-common/proprietary/lib/libmatv_cust.so:system/lib/libmatv_cust.so \
     vendor/bq/mt6592-common/proprietary/lib/libmdloggerrecycle.so:system/lib/libmdloggerrecycle.so \
     vendor/bq/mt6592-common/proprietary/lib/libmediatek_exceptionlog.so:system/lib/libmediatek_exceptionlog.so \
